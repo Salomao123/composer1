@@ -1,0 +1,13 @@
+{
+    "name": "salomao123/composer1",
+    "description": "aula composer da segunda feira",
+    "authors": [
+        {
+            "name": "Salomão Batista",
+            "email": "salomaum.batiata@gmail.com"
+        }
+    ],
+    "require": {
+        "endroid/qr-code": "^2.5"
+    }
+}
